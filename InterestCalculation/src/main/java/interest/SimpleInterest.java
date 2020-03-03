@@ -1,7 +1,7 @@
 package interest;
 
 public class SimpleInterest {
-	public double estimate(double principleamount,double rateofinterest,double time)
+	public static double estimate(double principleamount,double rateofinterest,double time)
 	{
 	
 		double calculatedinterest;
